@@ -1,0 +1,96 @@
+.main_container {
+  width: 100%;
+}
+
+.heading {
+  background-color: #e2e2e2;
+  padding: 20px;
+  border-bottom: 0.4px solid #cacaca;
+}
+.heading h2 {
+  font-weight: normal;
+}
+.container2 {
+  margin: 20px auto;
+  width: 60%;
+  padding: 20px;
+}
+.container2 h3 {
+  width: 30%;
+  font-weight: normal;
+  margin-right: 10px;
+  text-align: justify;
+}
+
+.container2 input {
+  width: 100%;
+  padding: 10px 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.container3 {
+  margin: 20px auto;
+  width: 60%;
+  padding: 20px;
+  border-radius: 5px;
+}
+.container3 h3 {
+  text-align: justify;
+  font-weight: normal;
+}
+.container3 button {
+  float: left;
+  background-color: #f1f1f1;
+  color: black;
+  padding: 10px 50px;
+  border: 1px solid #e6e5e5;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.container3 button:hover {
+  background-color: #b9b9b9;
+}
+.container4 {
+  margin: 20px auto;
+  width: 60%;
+  padding: 20px;
+  border-radius: 5px;
+}
+.container4 h3 {
+  text-align: justify;
+  font-weight: normal;
+}
+.container4 select {
+  width: 100%;
+  padding: 10px 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.container4 h4 {
+  float: left;
+  font-weight: normal;
+}
+.container5 {
+  margin: 20px auto;
+  width: 60%;
+  padding: 20px;
+}
+.form-grp {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.container5 input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.container5 h3 {
+  width: 30%;
+  font-weight: normal;
+  margin-right: 10px;
+  text-align: justify;
+}
